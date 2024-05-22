@@ -2,7 +2,7 @@
 
 Welcome to SharePlate: NOURISH & GIVE - a dynamic web application designed to streamline food donation and collection activities within our community.
 
-<img src="https://github.com/s223686707/s223686707-sit725-2023-t2-food-donation-system/blob/main/Demo_1.png" width="70%">
+<img src="https://raw.githubusercontent.com/AbdulMueezDeakin/SIT725-2024-T1-prac1/main/Home.png" width="70%">
 
 ## Table of Contents
 
@@ -165,5 +165,3 @@ Feel free to say Hi!
 | Danish Kumar   | s223629209@deakin.edu.au    |
 | Tamim Shahriar | s223192467@deakin.edu.au    |
 | Sumeet Kumar   | s222615086@deakin.edu.au    |
-
-This README file is formatted for GitHub with proper use of headers and markdown syntax. If you need any further adjustments or additions, please let me know!
