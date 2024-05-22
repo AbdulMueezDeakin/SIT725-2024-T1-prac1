@@ -123,7 +123,7 @@ Before running our application, ensure the following prerequisites are met:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aayush301/Food-donation-management-system
+   git clone [https://github.com/DanishKumar1001/SharePlate-Nourish-Give.git]
    ```
 2. Install all dependencies:
    ```sh
@@ -137,14 +137,14 @@ Before running our application, ensure the following prerequisites are met:
    ```sh
    npm start
    ```
-5. Visit [http://localhost:5000](http://localhost:5000).
+5. Visit [http://localhost:3000](http://localhost:3000).
 
 6. Sign up and log in to begin using the application.
 
 ## Helpful Resources
 
 - **Demo:** [Demo](#) *(Replace with your demo link)*
-- **GitHub Repository:** [GitHub Repository](https://github.com/aayush301/Food-donation-management-system)
+- **GitHub Repository:** [GitHub Repository](https://github.com/DanishKumar1001/SharePlate-Nourish-Give.git)
 - **Node.js Download:** [Download Node.js](https://nodejs.org/)
 - **VS Code Download:** [Download VS Code](https://code.visualstudio.com/)
 - **npm Documentation:** [npm Documentation](https://docs.npmjs.com/)
