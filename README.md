@@ -1,5 +1,3 @@
-Sure, here's the updated README file with proper formatting using markdown syntax:
-
 # SharePlate: NOURISH & GIVE
 
 Welcome to SharePlate: NOURISH & GIVE - a dynamic web application designed to streamline food donation and collection activities within our community.
