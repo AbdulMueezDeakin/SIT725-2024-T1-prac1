@@ -69,12 +69,6 @@ Our SharePlate: NOURISH & GIVE caters to three main user roles: administrators, 
 
 - Role-based access control to ensure data privacy.
 - Secure password management using bcryptjs.
-- Multi-factor authentication for an additional layer of security.
-
-### Multi-language Support
-
-- The application supports multiple languages to cater to a diverse user base.
-- Easy language switching from the user profile settings.
 
 ### Donation History and Feedback
 
